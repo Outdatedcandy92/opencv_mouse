@@ -2,7 +2,7 @@
 
 ## Overview
 This project uses **OpenCV**, **MediaPipe**, and **PyAutoGUI** to control the mouse pointer and simulate mouse clicks based on hand gestures detected through a webcam. It tracks the position of the index finger to move the mouse and uses gestures involving the index, middle, and ring fingers to perform mouse clicks and holds.
-
+![Image](https://hc-cdn.hel1.your-objectstorage.com/s/v3/370bd274229ef0d69954e89d21f01ef59e489849_gif.gif)
 
 ## Features
 1. **Mouse Movement**:
